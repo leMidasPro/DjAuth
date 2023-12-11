@@ -1,0 +1,1 @@
+web gunicorn auth_l.wsgi:application --log-file -
