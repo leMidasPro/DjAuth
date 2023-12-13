@@ -111,7 +111,7 @@ nav button{
 
 a.highlight{
     border: 1px solid #00dba0;
-    padding: 10px;
+    padding: 6px;
     border-radius: 4px;
     color: #00dba0;
 }
@@ -142,4 +142,8 @@ a.highlight{
     font-size: 1.2em;
     border-radius: 4px;
     margin: 10px 0;
+}
+a.text{
+    border-radius: 4px;
+    color: #00dba0;
 }
